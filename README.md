@@ -19,21 +19,6 @@ This project provides a Python-based solution for scraping movie and TV show dat
   - `pandas`
   - `json` (standard library)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/justwatch-web-scraper.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd justwatch-web-scraper
-   ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Launch Jupyter Notebook:
